@@ -26,3 +26,6 @@ Prepare a report for a bank’s loan division to determine the likelihood that a
 
 ## Libraries used
 * pandas
+* NLTK
+* WordNetLemmatizer
+* SnowballStemmer
